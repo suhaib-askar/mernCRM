@@ -1,2 +1,2 @@
-# mernCRM
-MERN based CRM
+# mernProject
+ERP solutions
